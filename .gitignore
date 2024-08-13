@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+VampireDash/DerivedDataCache/Compressed.ddp
+
+VampireDash/Content/Characters/Echo/Textures/Head/T_Head_highpass_S.uasset
+
+VampireDash/Saved/Config/CrashReportClient/UECC-Windows-C88751C545DC133EA7D198BB3F54FABE/CrashReportClient.ini
+
+VampireDash/Saved/Logs/VampireDash.log

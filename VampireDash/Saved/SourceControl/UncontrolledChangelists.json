@@ -7,6 +7,11 @@
 			"files": [
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_AllCharacters.uasset",
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Blueprints/RetargetedCharacters/ABP_GenericRetarget.uasset",
+				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Levels/DefaultLevel.umap",
+				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_TwinBlast.uasset",
+				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Input/IA_Dash.uasset",
+				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Input/IMC_GDCMotionMatching.uasset",
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Heroes/TwinBlast/Rigs/IK_TwinBlast_Retarget.uasset",
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Heroes/TwinBlast/Meshes/SKM_TwinBlast_ActionHero.uasset",
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Heroes/TwinBlast/Meshes/PA_TwinBlast_Extents.uasset",
@@ -204,9 +209,7 @@
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Global/Eyes/Textures/T_EyeOcclusion2.uasset",
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Heroes/TwinBlast/Rigs/ABP_TwinBlast_PostProcess.uasset",
 				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Heroes/TwinBlast/Meshes/SK_TwinBlast.uasset",
-				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Heroes/TwinBlast/Rigs/RTG_UEFN_to_TwinBlast.uasset",
-				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Levels/DefaultLevel.umap",
-				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_TwinBlast.uasset"
+				"E:/Unreal Engine Projects/Vampire Dash/VampireDash/Content/Characters/Paragon/Heroes/TwinBlast/Rigs/RTG_UEFN_to_TwinBlast.uasset"
 			]
 		}
 	]
