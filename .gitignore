@@ -9,8 +9,10 @@ VampireDash/Saved/Telemetry/Telemetry.json
 
 VampireDash/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 
-VampireDash/Saved/Logs/VampireDash-backup-2024.08.14-00.24.16.log
-
-VampireDash/Saved/Logs/VampireDash.log
-
 *.log
+
+VampireDash/Saved/Autosaves/PackageRestoreData.json
+
+VampireDash/Saved/Config/CrashReportClient/
+
+VampireDash/Saved/Crashes/
