@@ -1,2 +1,3 @@
-2024/08/19-13:43:43.391 25d4 Creating DB D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/08/19-13:43:43.442 25d4 Reusing MANIFEST D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/19-13:47:10.380 6d0c Reusing MANIFEST D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/19-13:47:10.381 6d0c Recovering log #3
+2024/08/19-13:47:10.382 6d0c Reusing old log D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb/000003.log 
