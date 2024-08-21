@@ -1,3 +1,6 @@
-2024/08/19-13:47:10.380 6d0c Reusing MANIFEST D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/08/19-13:47:10.381 6d0c Recovering log #3
-2024/08/19-13:47:10.382 6d0c Reusing old log D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/08/20-13:21:50.575 88ec Reusing MANIFEST D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/20-13:21:50.592 88ec Recovering log #3
+2024/08/20-13:21:50.594 88ec Reusing old log D:/GitHub/Vampire-Dash/VampireDash/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/08/20-13:23:17.778 444 Level-0 table #5: started
+2024/08/20-13:23:17.784 444 Level-0 table #5: 22713 bytes OK
+2024/08/20-13:23:17.789 444 Delete type=0 #3
