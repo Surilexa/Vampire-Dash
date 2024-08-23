@@ -42,6 +42,18 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "MfMedia",
+			"Enabled": true
+		},
+		{
+			"Name": "ImagePlate",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
